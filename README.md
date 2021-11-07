@@ -15,3 +15,14 @@ This is a project to collect and share datasets for GNN training and Graph Compu
 |Reddit-large  |Forum              |                       |                |               |               |               | 
 |ogbn-arxiv    |Node classification|169343,1166243         |128             |40             |6.9            |               |
 |ogbn-products |Node classification|2449029,61859140       |100             |47             |25.3           |               |
+
+
+## [Graph Computation Datasets](#content)
+Some commonly used data sets can be found from the following links:
+(1) The KONECT Project 
+http://konect.cc/networks/
+
+(2) Stanford Large Network Dataset Collection
+http://memetracker.org/data/index.html
+
+...
