@@ -8,9 +8,9 @@ This is a project to collect and share datasets for GNN training and Graph Compu
 
 |Graph         |Category           |Size (V, E)       |Features        |Labels         |Average Degree |Download Link  |
 |--------------|-------------------|-----------------------|----------------|---------------|---------------|---------------|
-|Cora          |Citation Network   |2708,5429              |1433            |7              |2.0            | https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz   | 
-|Citeseer      |Citation Network   |3327,4732              |3703            |6              |1.4            |               | 
-|Pubmed        |Citation Network   |19717,44338            |500             |3              |2.2            |               | 
+|Cora          |Citation Network   |2708,5429              |1433            |7              |2.0            | https://linqs-data.soe.ucsc.edu/public/lbc/cora.tgz    | 
+|Citeseer      |Citation Network   |3327,4732              |3703            |6              |1.4            | http://www.cs.umd.edu/~sen/lbc-proj/data/citeseer.tgz  | 
+|Pubmed        |Citation Network   |19717,44338            |500             |3              |2.2            | https://linqs-data.soe.ucsc.edu/public/Pubmed-Diabetes.tgz              | 
 |Reddit-small  |Forum              |232965,11606919        |602             |41             |49.8           |               | 
 |Reddit-large  |Forum              |                       |                |               |               |               | 
 |ogbn-arxiv    |Node classification|169343,1166243         |128             |40             |6.9            |               |
