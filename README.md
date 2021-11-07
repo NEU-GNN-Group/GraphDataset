@@ -1,8 +1,8 @@
 # GraphDataset
 This is a project to collect and share datasets for GNN training and Graph Computation.
 # Content
-- <a href = "#GNN Datasets">GNN Datasets</a>
-- <a href = "#Graph Computation Datasets">Graph Computation Datasets</a>
+- <a href = "#GNN-Datasets">GNN Datasets</a>
+- <a href = "#Graph-Computation-Datasets">Graph Computation Datasets</a>
 
 ## [GNN Datasets](#content)
 
