@@ -6,7 +6,7 @@ This is a project to collect and share datasets for GNN training and Graph Compu
 
 ## [GNN Datasets](#content)
 
-|Graph         |Category           |Size (V, E)       |Features        |Labels         |Average degree |Download Link  |
+|Graph         |Category           |Size (V, E)       |Features        |Labels         |Average Degree |Download Link  |
 |--------------|-------------------|-----------------------|----------------|---------------|---------------|---------------|
 |Cora          |Citation Network   |2708,5429              |1433            |7              |2.0            |               | 
 |Citeseer      |Citation Network   |3327,4732              |3703            |6              |1.4            |               | 
