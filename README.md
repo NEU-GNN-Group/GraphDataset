@@ -19,10 +19,14 @@ This is a project to collect and share datasets for GNN training and Graph Compu
 
 ## [Graph Computation Datasets](#content)
 Some commonly used data sets can be found from the following links:
+
 (1) The KONECT Project 
 http://konect.cc/networks/
 
 (2) Stanford Large Network Dataset Collection
 http://memetracker.org/data/index.html
+
+(3) 9th DIMACS Implementation Challenge - Shortest Paths
+http://www.diag.uniroma1.it//~challenge9/download.shtml
 
 ...
