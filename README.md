@@ -29,4 +29,6 @@ http://memetracker.org/data/index.html
 (3) 9th DIMACS Implementation Challenge - Shortest Paths
 http://www.diag.uniroma1.it//~challenge9/download.shtml
 
+(4) A large Scale Graph Generater
+http://github.com/farkhor/PaRMAT
 ...
